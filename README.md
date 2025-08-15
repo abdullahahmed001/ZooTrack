@@ -10,7 +10,6 @@ ZooTrack is a Java-based application designed for managing and tracking animals 
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## Features
 
