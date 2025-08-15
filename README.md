@@ -65,9 +65,6 @@ Contributions are welcome! If you would like to contribute to ZooTrack, please f
 
 This project does not currently have a license. Please feel free to use the code, but contributions and usage should comply with best practices.
 
-## Contact
-
-For any inquiries or feedback, please reach out to the project maintainer at [your_email@example.com].
 
 ---
 
